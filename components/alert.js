@@ -25,14 +25,15 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              This site was created using {' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`https://nextjs.org/`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
-                available on GitHub
+                NextJS
               </a>
               .
+              a react framework
             </>
           )}
         </div>

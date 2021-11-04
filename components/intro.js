@@ -4,7 +4,7 @@ export default function Intro() {
   return (
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
       <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
-        Blog.
+        garybuckle
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         A statically generated blog example using{' '}
@@ -15,7 +15,12 @@ export default function Intro() {
           Next.js
         </a>{' '}
         and {CMS_NAME}.
+        In an age where blogs died, Where hashtags and emojis rule the web, where social media outgunned the simple web site.
+        <p>I made a blog!</p>
+        <p>stop laughing and get reading...</p>
       </h4>
+      
+      
     </section>
   )
 }
