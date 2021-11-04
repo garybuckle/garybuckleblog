@@ -9,15 +9,33 @@
     "classnames": "2.2.6",
     "date-fns": "2.16.1",
     "gray-matter": "4.0.2",
-    "next": "latest",
+    "next": "^12.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router": "^6.0.0",
     "remark": "13.0.0",
-    "remark-html": "13.0.1"
+    "remark-html": "^13.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.1",
     "postcss": "^8.2.4",
     "tailwindcss": "^2.0.2"
-  }
+  },
+  "name": "garybuckleblog",
+  "description": "This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garybuckle/garybuckleblog.git"
+  },
+  "author": "garybuckle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garybuckle/garybuckleblog/issues"
+  },
+  "homepage": "https://github.com/garybuckle/garybuckleblog#readme"
 }
