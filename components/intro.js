@@ -1,4 +1,4 @@
-import { CMS_NAME } from '../lib/constants'
+import { CMS_NAME } from "../lib/constants";
 
 export default function Intro() {
   return (
@@ -7,20 +7,19 @@ export default function Intro() {
         garybuckle
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{' '}
+        A statically generated blog example using{" "}
         <a
           href="https://nextjs.org/"
           className="underline hover:text-success duration-200 transition-colors"
         >
           Next.js
-        </a>{' '}
-        and {CMS_NAME}.
-        In an age where blogs died, Where hashtags and emojis rule the web, where social media outgunned the simple web site.
+        </a>{" "}
+        and {CMS_NAME}. In an age where blogs died, where hashtags and emojis
+        rule the web, where social media outgunned the simple web site.
         <p>I made a blog!</p>
+        <p>I know... ridiculous!!!</p>
         <p>stop laughing and get reading...</p>
       </h4>
-      
-      
     </section>
-  )
+  );
 }
