@@ -1,13 +1,13 @@
 ---
-title: 'Things I have learned from injury'
+title: 'Things I learned from injury'
 excerpt: 'Active people do not react well to doing nothing.'
-coverImage: '/assets/blog/dynamic-routing/inafield.png'
+coverImage: '/assets/blog/dynamic-routing/injurybear.jpg'
 date: '2021-11-03T05:35:07.322Z'
 author:
   name: Gary Buckle
-  picture: '/assets/blog/authors/gb.png'
+  picture: '/assets/blog/authors/injurybear.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/inafield.jpg'
+  url: '/assets/blog/dynamic-routing/injury.png'
 ---
 
 # Things I have learned from injury.

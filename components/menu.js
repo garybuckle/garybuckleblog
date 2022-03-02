@@ -1,4 +1,3 @@
-import { CMS_NAME } from "../lib/constants";
 import Link from "next/link";
 
 export default function Menu() {

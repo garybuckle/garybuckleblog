@@ -1,13 +1,13 @@
 ---
 title: 'Boxing For Fitness'
 excerpt: 'This is a cardio workout with a strong emphasis on the core..'
-coverImage: '/assets/blog/dynamic-routing/beautiful-eye-image.png'
+coverImage: '/assets/blog/dynamic-routing/boxingforfitness.png'
 date: '2018-09-12T05:35:07.322Z'
 author:
   name: Gary Buckle
   picture: '/assets/blog/authors/gb.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/beautiful-eye-image.jpg'
+  url: '/assets/blog/dynamic-routing/boxingforfitness.jpg'
 ---
 # Basic Boxing for Fitness.
 

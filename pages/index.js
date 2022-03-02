@@ -15,7 +15,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>garybuckle {CMS_NAME} Blog</title>
+          <title>garybuckle</title>
         </Head>
         <Container>
           <About></About>

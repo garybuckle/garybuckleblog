@@ -10,7 +10,7 @@ export default function Frontpage() {
     <>
       <Layout>
         <Head>
-          <title>garybuckle {CMS_NAME} Blog</title>
+          <title>garybuckle Blog</title>
         </Head>
       </Layout>
     </>
