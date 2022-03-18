@@ -18,13 +18,14 @@ export default function About() {
         {" "}
         <p>
           {" "}
-          garybuckle is just like everyone else, he eats too much chocolate and he moans about everything and anything.
-          He likes to keep fit, well... everyone says that don't they.
-          He likes to do a bit of coding... it just gives me that feeling of being up to date.
-          He likes to run... Long distances, anything from 10km to 100km(that's coming)
-          This website is just an effort to get some of that down on ..paper..canvas..web..paper???
-          It's also just a project in progress. 
-        <p>Plase be patient</p>
+          garybuckle is just like everyone else, he eats too much chocolate and
+          he moans about everything and anything. He likes to keep fit, well...
+          everyone says that don't they. He likes to do a bit of coding... it
+          just gives me that feeling of being up to date. He likes to run...
+          Long distances, anything from 10km to 100km(that's coming) This
+          website is just an effort to get some of that down on
+          ..paper..canvas..a Website??? It's also just a project in progress.
+          <p>Plase be patient</p>
         </p>
       </section>
     </>
