@@ -1,25 +1,32 @@
 ---
-title: 'Things I learned from injury'
-excerpt: 'Active people do not react well to doing nothing.'
-coverImage: '/assets/blog/dynamic-routing/injurybear.jpg'
-date: '2021-11-03T05:35:07.322Z'
+title: "Things I learned from injury"
+excerpt: "Recovering from injury is pretty hard, especially when there is no or little physical feedback."
+coverImage: "/assets/blog/dynamic-routing/injurybear-small.png"
+date: "2021-11-03T05:35:07.322Z"
 author:
   name: Gary Buckle
-  picture: '/assets/blog/authors/injurybear.jpg'
+  picture: "/assets/blog/authors/injurybear-small.png"
 ogImage:
-  url: '/assets/blog/dynamic-routing/injury.png'
+  url: "/assets/blog/dynamic-routing/injury.png"
 ---
 
-# Things I have learned from injury.
+## Things I have learned from injury.
 
 Active people do not react well to doing nothing.
 I am no exception but as I sat in the spring sunshine resting and believe me, there was lots of resting.
 I began to contemplate how I could make the best out of the situation. The best out of not doing what I have loved doing for a long time.
+I was bang in the middle or preparing for a marathon in Copenhagen.
+Boom!
+I tore the retina in my right eye!
 
-Easy answers came first:
+## What not to do!
 
-- The bits of me that had been complaining about the running and the squash like my left foot, with the [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), a feature since the Berlin Marathon. After saturday morning pressure sessions with my [coach](https://www.darrenwithey.co.uk).
-  I would hobble around avoiding puttting pressure on my left foot.
+Do not underestimate the fact that you have to recover and that is very much dependant on the injury. In my case it took 5 weeks before I was told that I could do _light exercise_. I did what I considered to be _light exercise_ by skipping, jumping rope for twenty minutes. Afterwhich I had no vision
+
+## Easy answers came first:
+
+- The bits of me that had been complaining about the running and the squash like my left foot, with the [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), a feature since the Berlin Marathon. After Saturday morning pressure sessions with my [coach](https://www.darrenwithey.co.uk).
+  I would hobble around avoiding putting pressure on my left foot.
 
 - My wife would see more of me.
 - I would have time to read more!
@@ -44,11 +51,9 @@ I made a very honest and direct assessment of my physical condition.
 Calorie intake was as high as it had been whilst active. Cut down the calories!
 I hadn't drunk alcohol for 4 months so that was already sorted. My beer drinking data had proven conclusively to me and possibly only applicable to me, that this was a major cause of weight gain.
 
-### What could I do?
-
 ### What am I allowed to do?
 
-Well that was an easy answer - I couldn't do anything do to possible damage to the retina or risk another harmorige.
+Well that was an easy answer - I couldn't do anything do to possible damage to the retina or risk another haemorrhage.
 
 I had to make sure the minute I could do ‘something’ I used the time appropriately and effectively. That meant plotting a course of recovery and not just banging out a 10km run or an intensive boxing session.
 
