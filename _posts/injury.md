@@ -5,7 +5,7 @@ coverImage: "/assets/blog/dynamic-routing/injurybear-small.png"
 date: "2021-11-03T05:35:07.322Z"
 author:
   name: Gary Buckle
-  picture: "/assets/blog/authors/injurybear-small.png"
+  picture: "/assets/blog/authors/gb.png"
 ogImage:
   url: "/assets/blog/dynamic-routing/injury.png"
 ---
@@ -17,16 +17,18 @@ I am no exception but as I sat in the spring sunshine resting and believe me, th
 I began to contemplate how I could make the best out of the situation. The best out of not doing what I have loved doing for a long time.
 I was bang in the middle or preparing for a marathon in Copenhagen.
 Boom!
-I tore the retina in my right eye!
+I tore the retina in my right eye and I had no idea how!
 
 ## What not to do!
 
-Do not underestimate the fact that you have to recover and that is very much dependant on the injury. In my case it took 5 weeks before I was told that I could do _light exercise_. I did what I considered to be _light exercise_ by skipping, jumping rope for twenty minutes. Afterwhich I had no vision
+Do not underestimate the fact that you have to recover and that is very much dependant on the injury. In my case it took 5 weeks before I was told that I could do _light exercise_. I did what I considered to be _light exercise_ by skipping, jumping rope for twenty minutes. After which I had no vision in my left eye at all.
 
 ## Easy answers came first:
 
-- The bits of me that had been complaining about the running and the squash like my left foot, with the [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), a feature since the Berlin Marathon. After Saturday morning pressure sessions with my [coach](https://www.darrenwithey.co.uk).
+- The bits of me that had been complaining about the running and the squash, like the pain in my left foot, [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), a feature I had lived with since the Berlin Marathon. After Saturday morning pressure sessions with my [coach](https://www.darrenwithey.co.uk).
   I would hobble around avoiding putting pressure on my left foot.
+
+  he advantages of not training.
 
 - My wife would see more of me.
 - I would have time to read more!
@@ -36,7 +38,7 @@ But there might be more to it than that.
 Surely I could come of this stronger? better? even fitter?
 
 As I sat outside listening to Rich Roll's Finding [Ultra](https://www.goodreads.com/book/show/39665673-finding-ultra-revised-and-updated-edition?ac=1&from_search=true) on an Audiobook
-I began to wonder if and how I could actually improve from this horrible experience.
+I began to wonder if and how I could actually get something out of this horrible experience.
 
 Firstly though, here is the disclaimer :
 

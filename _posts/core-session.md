@@ -1,22 +1,22 @@
 ---
-title: 'Core Session'
-excerpt: '20 minutes of skipping, headphones in and some Cumbia, African or Reggae'
-coverImage: '/assets/blog/dynamic-routing/sunday-boxing session.png'
-date: '2020-03-16T05:35:07.322Z'
+title: "Core Session"
+excerpt: "20 minutes of skipping, headphones in and some Cumbia, African or Reggae"
+coverImage: "/assets/blog/dynamic-routing/sunday-boxing session.png"
+date: "2020-03-16T05:35:07.322Z"
 author:
   name: Gary Buckle
-  picture: '/assets/blog/authors/gb.png'
+  picture: "/assets/blog/authors/gb.png"
 ogImage:
-  url: '/assets/blog/dynamic-routing/sunday-boxing session.png'
+  url: "/assets/blog/dynamic-routing/sunday-boxing session.png"
 ---
 
-20 minutes of skipping, headphones in and some Cumbia, African or Reggae flooding my brain.
-Same routine since I was 14. 
-I follow with  6 x 3 minute rounds on a punch bag, 30 seconds rest in between. 
+20 minutes of skipping, headphones in and some Latin Cumbia, African or Reggae flooding my brain.
+Same routine since I was 14.
+I follow with 6 x 3 minute rounds on a punch bag, 30 seconds rest in between. It's not about batering the bag, it's about rhythm.
 ​
 Next I do 10 x 1 minute sprints or shuttles. Mostly with a racket in my hand to simulate a squash game.
 ​
-This is mostly a venture out into zone 4 but I like the build up from zones 2 and 3 into zone 4.
+This is mostly a venture out into zone 4 on my heart rate but I like the build up from zones 2 and 3 into zone 4.
 
 [Quick intro on zones](https://support.polar.com/uk-en/support/tips/Polar_Sport_Zones)
 ​
