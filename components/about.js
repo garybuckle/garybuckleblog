@@ -12,7 +12,12 @@ export default function About() {
         </h1>
       </section>
       <section className="w-full flex justify-center text-6xl md:text-8xl font-bold tracking-tighter leading-tight">
-        <Image src={aboutMedia} alt="me in a field" />
+        <Image
+          src={aboutMedia}
+          width={800}
+          layout="intrinsic"
+          alt="me in a field"
+        />
       </section>
       <section className=" justify-center flex-col md:flex-row flex items-center  mt-16 mb-16 md:mb-12">
         {" "}

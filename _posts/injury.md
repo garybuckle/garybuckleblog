@@ -1,7 +1,7 @@
 ---
 title: "Things I learned from injury"
 excerpt: "Recovering from injury is pretty hard, especially when there is no or little physical feedback."
-coverImage: "/assets/blog/dynamic-routing/injurybear-small.png"
+coverImage: "/assets/blog/dynamic-routing/injurybear-800.png"
 date: "2021-11-03T05:35:07.322Z"
 author:
   name: Gary Buckle
