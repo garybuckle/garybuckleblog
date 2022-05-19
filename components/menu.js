@@ -23,9 +23,6 @@ export default function Menu() {
             Play
           </a>
         </li>
-        <Link href="/blog">
-          <a class="text-gray-500 hover:text-blue-800 mr-8">Articles</a>
-        </Link>
       </ul>
     </>
   );

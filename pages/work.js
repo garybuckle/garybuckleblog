@@ -27,12 +27,17 @@ export default function Work() {
           />
           <Image src={macMedia} alt="Robot" width="314" height="215" />
         </section>
-        <section className=" justify-center flex-col md:flex-row flex items-center  mt-16 mb-16 md:mb-12">
+        <section className=" justify-center flex-col md:flex-row flex items-center  ml-16 mr-16 mt-16 mb-16 md:mb-12">
           {" "}
           <p>
             All work and no play...on the left a rather crude icon of an
             industrial robot and on the left a picture of an Apple iMac. Both
-            representing the two worlds I inhabited.
+            representing the two worlds I inhabited. I started working with
+            Robots in 1983. Yes, I know its a long time ago and you would be
+            correct in thinking that there were not many about. But wrong in
+            thinking that they were not sophisticated.
+            {""}
+            The robots of 1984 were not Arnold Schwartzenegger
           </p>
         </section>
       </>
