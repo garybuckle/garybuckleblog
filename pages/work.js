@@ -37,7 +37,14 @@ export default function Work() {
             correct in thinking that there were not many about. But wrong in
             thinking that they were not sophisticated.
             {""}
-            The robots of 1984 were not Arnold Schwartzenegger
+            The robots of 1984 were not Arnold Schwartzenegger but they were the
+            precursors to todays technology. In 1983 I was troubleshooting 8"
+            floppy disk drives, changing{" "}
+            <a href="https://en.wikipedia.org/wiki/Transistor–transistor_logic">
+              TTL
+            </a>{" "}
+            <a href="https://en.wikipedia.org/wiki/CMOS">CMOS</a> electronic
+            components on circuit boards.
           </p>
         </section>
       </>
