@@ -23,14 +23,14 @@ export default function About() {
         {" "}
         <p>
           {" "}
-          garybuckle is just like everyone else, he eats too much chocolate and
-          he moans about everything and anything. He likes to keep fit, well...
-          everyone says that don't they. He likes to do a bit of coding... it
-          just gives me that feeling of being a bit up to date. He likes to
-          run... Long distances, anything from 10km to 100km. This website is
-          just an effort to get some of that down on ..paper..canvas..a Website?
-          It's also just a project in progress.
-          <p>Please be patient</p>
+          Welcome to my website, it's not much as yet but I am working on it. I
+          built it using NextJS and in order to get it up quickly used a
+          template. I have a few plans to make it something useful. Mostly I am
+          going to concentrate on Running and health and fitness, Robotics and
+          Automation but from an historical perspective and technology such as
+          computers, devices and software.
+          <p>Sounds good?</p>
+          <p>Stick around and lets see what develops</p>
         </p>
       </section>
     </>
