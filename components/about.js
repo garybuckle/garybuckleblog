@@ -26,10 +26,10 @@ export default function About() {
           Welcome to my website, it's not much as yet but I am working on it. I
           built it using NextJS and in order to get it up quickly used a
           template. I have a few plans to make it something useful. Mostly I am
-          going to concentrate on Running and health and fitness, Robotics and
-          Automation but from an historical perspective and technology such as
+          going to talk about Running, health and fitness, Robotics and
+          Automation but from an historical perspective, technology such as
           computers, devices and software.
-          <p>Sounds good?</p>
+          <p>Sound good?</p>
           <p>Stick around and lets see what develops</p>
         </p>
       </section>
