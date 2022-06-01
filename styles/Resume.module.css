@@ -1,1 +1,24 @@
-/* No CSS *//*# sourceMappingURL=Resume.module.css.map */
+.section {
+  font-size: 5rem;
+}
+
+.labels {
+  color: #6c7983;
+  font-size: 2rem;
+}
+
+.infotext {
+  color: #12181b;
+  font-size: 2rem;
+}
+
+.descriptiontext {
+  color: #454e56;
+  font-size: 1rem;
+}
+
+.aboutme {
+  border-top: 1px solid #2a2e35;
+}
+
+/*# sourceMappingURL=Resume.module.css.map */

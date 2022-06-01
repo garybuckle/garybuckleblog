@@ -2,30 +2,135 @@ import Container from "../components/container";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import Head from "next/head";
-import { CMS_NAME } from "../lib/constants";
 import Footer from "../components/footer";
-import Image from "next/dist/client/image";
-import robotMedia from "../public/assets/media/robot.png";
-import macMedia from "../public/assets/media/mac.png";
-import styles from "../styles/resume.module.css";
+import styles from "../styles/Resume.module.css";
+import { RiComputerLine } from "react-icons/ri";
+import { RiCodeBoxLine } from "react-icons/ri";
+import { IoIosPeople } from "react-icons/Io";
+import { FaMicrochip } from "react-icons/fa";
+import { RiCustomerServiceLine } from "react-icons/ri";
+import { GiTeacher } from "react-icons/gi";
 
 export default function Resume() {
   return (
     <Layout>
       <>
-        <section className="grid grid-cols-1 place-items-center ">
-          Resume
+        <section className="ml-5 grid grid-cols-2 gap-12 my-6">
+          <div>
+            <h2 className={styles.labels}>Gary Buckle </h2>
+            <h2 className="text-slate-800 text-2xl">
+              Learning Tools Developer
+            </h2>
+          </div>
+          <div>
+            <h2 className={styles.labels}>
+              Contact:
+              <span>
+                <a className={styles.infotext} href="mailto:buckle.g@mac.com">
+                  {" "}
+                  buckle.g@mac.com
+                </a>
+              </span>
+            </h2>
+            <h2 className={styles.labels}>
+              Tel. Nr:
+              <span className={styles.infotext}> 07712854250</span>
+            </h2>
+            <h2 className={styles.labels}>
+              Location:{" "}
+              <span className={styles.infotext}>
+                11 Mentmore Rd, Leighton Buzzard, LU7 2NY UK
+              </span>
+            </h2>
+          </div>
+          <div className={styles.aboutme}>
+            <h2 className={styles.labels}>About Me</h2>
+            <h3 className="text-slate-800 text-2xl mb-8">
+              Robotic Engineer | Software Developer Troubleshooter | Trainer |
+              Mentor
+            </h3>
+            <p className={styles.descriptiontext}>
+              I have over 40 years of experience in diverse areas such as
+              Robotic Engineering, Learning and Development, Computing and
+              Software Development. I have worked in Germany, France, Norway,
+              Poland, Italy and been part of large projects. I have taught
+              Control Systems and Robotic Programming Languages in major
+              companies and suppliers. I have run my own business. I am a
+              competent and accomplished Web Developer with first class
+              communication skills.
+            </p>
+          </div>
+          <div className={(styles.descriptiontext, styles.aboutme)}>
+            <h2 className={styles.labels}>Relevant Experience</h2>
+            <h3 className="text-slate-800 text-2xl mb-8">
+              Engineering | Customer Service | Trainer | Software Developer
+            </h3>
+            <p>
+              2018 - Present Learning Tools Developer Apple Inc - London, UK
+            </p>
+            <p>2011 - 2018 Technical Instructor Apple Inc - London, UK</p>
+            <p>2007 - 2011 Mac Genius Apple Inc - Milton Keynes, UK</p>
+            <p>2005 - 2007 Service Coordinator ABB Ltd - Milton Keynes, UK</p>
+            <p>
+              2000 - 2005 System Engineer / MD RAPT Solutions Ltd - Milton
+              Keynes, UK
+            </p>
+            <p>1999 - 2000 Training Instructor ABB Ltd - Milton Keynes, UK</p>
+            <p>1997 - 1998 System Engineer ABB Ltd - Milton Keynes, UK</p>
+            <p>1991 - 1998 Service Techniker ABB Gmbh Friedberg ,Deutschland</p>
+          </div>
         </section>
-        <section className="grid grid-cols-2 gap-4">
-          <div>
-            <h2>Gary Buckle </h2>
-            <h2>Learning Tools Developer</h2>
+        <section className="ml-5">
+          <h3 className={styles.labels}>Strengths</h3>
+
+          <div className="flex flex-row flex-wrap">
+            <div>
+              <i>
+                <RiComputerLine size="10rem" />
+              </i>
+              <p className="text-center text-slate-400 text-1xl">Hardware</p>
+            </div>
+            <div>
+              <div>
+                <i>
+                  <RiCodeBoxLine size="10rem"></RiCodeBoxLine>
+                </i>{" "}
+                <p className="text-center text-slate-400 text-1xl">Software</p>
+              </div>
+            </div>
+            <div>
+              <i>
+                <IoIosPeople size="10rem"></IoIosPeople>
+              </i>
+              <p className="text-center text-slate-400 text-1xl">
+                Communication
+              </p>
+            </div>
+            <div>
+              <i>
+                <FaMicrochip size="10rem"></FaMicrochip>
+              </i>
+              <p className="text-center text-slate-400 text-1xl">Electronics</p>
+            </div>
+            <div>
+              <i>
+                <RiCustomerServiceLine size="10rem"></RiCustomerServiceLine>
+              </i>
+              <p className="text-center text-slate-400 text-1xl">
+                Customer Service
+              </p>
+            </div>
+            <div>
+              <i>
+                <GiTeacher size="10rem"></GiTeacher>
+              </i>
+              <p className="text-center text-slate-400 text-1xl">Teacher</p>
+            </div>
           </div>
-          <div>
-            <h2>Contact </h2>
-            <h2>Tel. Nr </h2>
-            <h2>Location </h2>
-          </div>
+        </section>
+
+        <section className="ml-5 grid grid-cols-2 gap-12 my-6">
+          <h2 className={styles.labels}>Skillset </h2>
         </section>
       </>
     </Layout>

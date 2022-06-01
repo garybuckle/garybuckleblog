@@ -11,4 +11,25 @@ $color-gray-5: #2a2e35;
 $color-gray-6: #12181b;
 $br-sm-2: 14px;
 
+.section {
+  font-size: 5rem;
+}
 
+.labels {
+  color: $color-gray-3;
+  font-size: 2rem;
+}
+
+.infotext {
+  color: $color-gray-6;
+  font-size: 2rem;
+}
+
+.descriptiontext {
+  color: $color-gray-4;
+  font-size: 1rem;
+}
+
+.aboutme {
+  border-top: 1px solid $color-gray-5;
+}

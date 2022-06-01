@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "Resume.module.scss"
-    ],
-    "names": [],
-    "file": "Resume.module.css"
-}
+{"version":3,"sourceRoot":"","sources":["Resume.module.scss"],"names":[],"mappings":"AAaA;EACE;;;AAGF;EACE,OAXa;EAYb;;;AAGF;EACE,OAba;EAcb;;;AAGF;EACE,OApBa;EAqBb;;;AAGF;EACE","file":"Resume.module.css"}

@@ -2,6 +2,7 @@ import { CMS_NAME } from "../lib/constants";
 import Link from "next/link";
 import Image from "next/image";
 import aboutMedia from "../public/assets/media/me-in-a-field.jpg";
+import Footer from "../components/footer";
 
 export default function About() {
   return (
@@ -23,16 +24,17 @@ export default function About() {
         {" "}
         <p>
           {" "}
-          Welcome to my website, it's not much as yet but I am working on it. I
-          built it using NextJS and in order to get it up quickly used a
-          template. I have a few plans to make it something useful. Mostly I am
-          going to talk about Running, health and fitness, Robotics and
-          Automation but from an historical perspective, technology such as
-          computers, devices and software.
-          <p>Sound good?</p>
+          Welcome to my website, very much a work in progress.Built using NextJS
+          a REact framework and styled using TailwindCS. I have a few plans to
+          turn it something useful. Mostly I am going to talk about Running,
+          health and fitness, Robotics and Automation but more from an
+          historical perspective, technology such as computers, devices and
+          software.
+          <p>If this sounds interesting then</p>
           <p>Stick around and lets see what develops</p>
         </p>
       </section>
+      <Footer />
     </>
   );
 }
