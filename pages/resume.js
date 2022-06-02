@@ -83,26 +83,26 @@ export default function Resume() {
         <section className="ml-5">
           <h3 className={styles.labels}>Strengths</h3>
 
-          <div className="flex flex-row flex-wrap">
+          <div  className="ml-5 grid grid-cols-6 gap-4 my-6">
             <div>
               <i>
                 <RiComputerLine size="5rem" />
               </i>
-              <p className="text-center text-slate-400 text-1xl">Hardware</p>
+              <p className="mt-2 text-slate-400 text-1xl">Hardware</p>
             </div>
             <div>
               <div>
                 <i>
                   <RiCodeBoxLine size="5rem"></RiCodeBoxLine>
                 </i>{" "}
-                <p className="text-center text-slate-400 text-1xl">Software</p>
+                <p className="mt-2 text-slate-400 text-1xl">Software</p>
               </div>
             </div>
             <div>
               <i>
                 <IoIosPeople size="5rem"></IoIosPeople>
               </i>
-              <p className="text-center text-slate-400 text-1xl">
+              <p className="mt-2 text-slate-400 text-1xl">
                 Communication
               </p>
             </div>
@@ -110,13 +110,13 @@ export default function Resume() {
               <i>
                 <FaMicrochip size="5rem"></FaMicrochip>
               </i>
-              <p className="text-center text-slate-400 text-1xl">Electronics</p>
+              <p className="mt-2 text-slate-400 text-1xl">Electronics</p>
             </div>
             <div>
               <i>
                 <RiCustomerServiceLine size="5rem"></RiCustomerServiceLine>
               </i>
-              <p className="text-center text-slate-400 text-1xl">
+              <p className="mt-2 text-slate-400 text-1xl">
                 Customer Service
               </p>
             </div>
@@ -124,7 +124,7 @@ export default function Resume() {
               <i>
                 <GiTeacher size="5rem"></GiTeacher>
               </i>
-              <p className="text-center text-slate-400 text-1xl">Teacher</p>
+              <p className="mt-2 text-slate-400 text-1xl">Teacher</p>
             </div>
           </div>
         </section>
