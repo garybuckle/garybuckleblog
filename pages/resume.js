@@ -43,6 +43,7 @@ export default function Resume() {
               </span>
             </h2>
           </div>
+
           <div className={styles.aboutme}>
             <h2 className={styles.labels}>About Me</h2>
             <h3 className="text-slate-800 text-2xl mb-8">
@@ -83,7 +84,7 @@ export default function Resume() {
         <section className="ml-5">
           <h3 className={styles.labels}>Strengths</h3>
 
-          <div  className="ml-5 grid grid-cols-6 gap-4 my-6">
+          <div className="flex flex-row flex-wrap">
             <div>
               <i>
                 <RiComputerLine size="5rem" />
@@ -102,9 +103,7 @@ export default function Resume() {
               <i>
                 <IoIosPeople size="5rem"></IoIosPeople>
               </i>
-              <p className="mt-2 text-slate-400 text-1xl">
-                Communication
-              </p>
+              <p className="mt-2 text-slate-400 text-1xl">Communication</p>
             </div>
             <div>
               <i>
@@ -116,9 +115,7 @@ export default function Resume() {
               <i>
                 <RiCustomerServiceLine size="5rem"></RiCustomerServiceLine>
               </i>
-              <p className="mt-2 text-slate-400 text-1xl">
-                Customer Service
-              </p>
+              <p className="mt-2 text-slate-400 text-1xl">Customer Service</p>
             </div>
             <div>
               <i>
@@ -128,9 +125,14 @@ export default function Resume() {
             </div>
           </div>
         </section>
+        <h2 className={styles.labels}>Skillset </h2>
 
         <section className="ml-5 grid grid-cols-2 gap-12 my-6">
-          <h2 className={styles.labels}>Skillset </h2>
+          <div></div>
+          <div>
+            {" "}
+            <h2 className={styles.labels}>General Skils</h2>
+          </div>
         </section>
       </>
     </Layout>
