@@ -6,7 +6,7 @@ import Footer from "../components/footer";
 import styles from "../styles/Resume.module.css";
 import { RiComputerLine } from "react-icons/ri";
 import { RiCodeBoxLine } from "react-icons/ri";
-import { IoIosPeople } from "react-icons/Io";
+import { IoIosPeople } from "react-icons/io";
 import { FaMicrochip } from "react-icons/fa";
 import { RiCustomerServiceLine } from "react-icons/ri";
 import { GiTeacher } from "react-icons/gi";

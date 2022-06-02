@@ -24,7 +24,7 @@ export default function About() {
         {" "}
         <p>
           {" "}
-          Welcome to my website, very much a work in progress.Built using NextJS
+          Welcome to my website, very much a work in progress. Built using NextJS, 
           a React framework and styled using TailwindCSS. I have a few plans to
           turn it something useful. Mostly though I am going to talk about
           Running, health and fitness, Robotics and Automation but more from an
