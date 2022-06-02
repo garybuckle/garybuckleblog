@@ -86,21 +86,21 @@ export default function Resume() {
           <div className="flex flex-row flex-wrap">
             <div>
               <i>
-                <RiComputerLine size="10rem" />
+                <RiComputerLine size="5rem" />
               </i>
               <p className="text-center text-slate-400 text-1xl">Hardware</p>
             </div>
             <div>
               <div>
                 <i>
-                  <RiCodeBoxLine size="10rem"></RiCodeBoxLine>
+                  <RiCodeBoxLine size="5rem"></RiCodeBoxLine>
                 </i>{" "}
                 <p className="text-center text-slate-400 text-1xl">Software</p>
               </div>
             </div>
             <div>
               <i>
-                <IoIosPeople size="10rem"></IoIosPeople>
+                <IoIosPeople size="5rem"></IoIosPeople>
               </i>
               <p className="text-center text-slate-400 text-1xl">
                 Communication
@@ -108,13 +108,13 @@ export default function Resume() {
             </div>
             <div>
               <i>
-                <FaMicrochip size="10rem"></FaMicrochip>
+                <FaMicrochip size="5rem"></FaMicrochip>
               </i>
               <p className="text-center text-slate-400 text-1xl">Electronics</p>
             </div>
             <div>
               <i>
-                <RiCustomerServiceLine size="10rem"></RiCustomerServiceLine>
+                <RiCustomerServiceLine size="5rem"></RiCustomerServiceLine>
               </i>
               <p className="text-center text-slate-400 text-1xl">
                 Customer Service
@@ -122,7 +122,7 @@ export default function Resume() {
             </div>
             <div>
               <i>
-                <GiTeacher size="10rem"></GiTeacher>
+                <GiTeacher size="5rem"></GiTeacher>
               </i>
               <p className="text-center text-slate-400 text-1xl">Teacher</p>
             </div>
