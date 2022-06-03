@@ -24,7 +24,7 @@
     "tailwindcss": "^2.0.2"
   },
   "name": "garybuckleblog",
-  "description": "This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.",
+  "description": "garybuckle's website",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
