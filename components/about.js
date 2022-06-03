@@ -27,9 +27,7 @@ export default function About() {
           Welcome to my website, very much a work in progress. Built using
           NextJS, a React framework and styled using TailwindCSS. I have a few
           plans to turn it something useful. Mostly though I'm planning to talk
-          about running, health, fitness, robotics and electronics but more from
-          an historical perspective, technology such as computers, devices and
-          software.
+          about running, health, fitness, robotics, technology and electronics.
           <p>If this sounds interesting then...</p>
           <p>Stick around and lets see what develops</p>
         </p>
