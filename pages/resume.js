@@ -84,7 +84,7 @@ export default function Resume() {
         <section className="ml-5">
           <h3 className={styles.labels}>Strengths</h3>
 
-          <div className="flex flex-row flex-wrap">
+          <div className="flex flex-row flex-wrap  gap-40">
             <div>
               <i>
                 <RiComputerLine size="5rem" />
