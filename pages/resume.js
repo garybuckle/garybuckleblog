@@ -84,11 +84,7 @@ export default function Resume() {
         <section className="ml-5">
           <h3 className={styles.labels}>Strengths</h3>
 
-<<<<<<< HEAD
-          <div className="flex flex-row flex-wrap  gap-40">
-=======
           <div className="flex flex-row flex-wrap gap-20">
->>>>>>> 2d583f57655e67a7960f981e409914f878aec985
             <div>
               <i>
                 <RiComputerLine size="5rem" />
@@ -131,9 +127,13 @@ export default function Resume() {
         </section>
 
         <section className="ml-5  my-6">
-       <div className="grid grid-cols-2 gap-12"> <h2 className={styles.labels}>Skillset </h2></div>
+          <div className="grid grid-cols-2 gap-12">
             {" "}
-            <div><h3 className={styles.labels}>General Skills</h3></div>
+            <h2 className={styles.labels}>Skillset </h2>
+          </div>{" "}
+          <div>
+            <h3 className={styles.labels}>General Skills</h3>
+          </div>
         </section>
       </>
     </Layout>

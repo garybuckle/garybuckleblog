@@ -24,13 +24,11 @@ export default function About() {
         {" "}
         <p>
           {" "}
-          Welcome to my website, very much a work in progress. Built using NextJS, 
-          a React framework and styled using TailwindCSS. I have a few plans to
-          turn it something useful. Mostly though I am going to talk about
-          Running, health and fitness, Robotics and Automation but more from an
-          historical perspective, technology such as computers, devices and
-          software.
-          <p>If this sounds interesting then</p>
+          Welcome to my website, very much a work in progress. Built using
+          NextJS, a React framework and styled using TailwindCSS. I have a few
+          plans to turn it something useful. Mostly though I'm planning to talk
+          about running, health, fitness, robotics, technology and electronics.
+          <p>If this sounds interesting then...</p>
           <p>Stick around and lets see what develops</p>
         </p>
       </section>
