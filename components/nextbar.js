@@ -45,6 +45,17 @@ function MobileNav({ open, setOpen }) {
         >
           Play
         </a>
+        <a
+          className="text-xl font-normal my-4"
+          href="/blog"
+          onClick={() =>
+            setTimeout(() => {
+              setOpen(!open);
+            }, 100)
+          }
+        >
+          Blog
+        </a>
       </div>
     </div>
   );
@@ -88,6 +99,7 @@ export default function Nextbar() {
         <div className="hidden md:flex">
           <NavLink to="/work">Work</NavLink>
           <NavLink to="/play">Play</NavLink>
+          <NavLink to="/blog">Blog</NavLink>
         </div>
       </div>
     </nav>
