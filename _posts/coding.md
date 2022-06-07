@@ -48,7 +48,7 @@ They're great!
 
 Covering most, if not all of the stuff that you will need to get you up to speed. There are lots of examples but you might wonder where do I start **exactly** and what does it all mean.
 Start with html, then css and then javascript.
-If you're stuck then take look [here](https://developer.mozilla.org/en-US/) MDN is a great reference.
+If you're stuck then take a look [here](https://developer.mozilla.org/en-US/) MDN is a great reference.
 
 
 They cater for everyone from beginner's to professionals.

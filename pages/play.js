@@ -8,14 +8,14 @@ import Image from "next/dist/client/image";
 import robotMedia from "../public/assets/media/robot.png";
 import macMedia from "../public/assets/media/mac.png";
 
-export default function Work() {
+export default function Play() {
   return (
     <Layout>
       <>
         <section className=" justify-center flex-col md:flex-row flex items-center  ml-16 mr-16 mt-16 mb-16 md:mb-12">
           {" "}
           <p>
-            All work and no play...This bit is still under construction so click
+            All play and no work...This bit is still under construction so click
             or tap home and go back to the main page.
           </p>
         </section>

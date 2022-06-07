@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function NavLink({ to, children }) {
   return (
-    <a href={to} className={`mx-4`}>
+    <a href={to} className={`hover:underline text-xl font-semibold mx-4`}>
       {children}
     </a>
   );
@@ -18,13 +18,13 @@ function MobileNav({ open, setOpen }) {
       <div className="flex items-center justify-center filter drop-shadow-md bg-white h-20">
         {" "}
         {/*logo container*/}
-        <a className="text-xl font-semibold" href="/">
-          <NavLink to="/">home</NavLink>
+        <a>
+          <NavLink to="/">Home</NavLink>
         </a>
       </div>
       <div className="flex flex-col ml-4">
         <a
-          className="text-xl font-medium my-4"
+          className="my-4"
           href="/work"
           onClick={() =>
             setTimeout(() => {
@@ -35,8 +35,8 @@ function MobileNav({ open, setOpen }) {
           Work
         </a>
         <a
-          className="text-xl font-normal my-4"
-          href="/"
+          className="my-4"
+          href="/play"
           onClick={() =>
             setTimeout(() => {
               setOpen(!open);
@@ -46,7 +46,7 @@ function MobileNav({ open, setOpen }) {
           Play
         </a>
         <a
-          className="text-xl font-normal my-4"
+          className="my-4"
           href="/blog"
           onClick={() =>
             setTimeout(() => {
@@ -67,8 +67,8 @@ export default function Nextbar() {
     <nav className="flex filter drop-shadow-md bg-white px-4 py-4 h-20 items-center">
       <MobileNav open={open} setOpen={setOpen} />
       <div className="w-3/12 flex items-center">
-        <a className="text-2xl font-semibold" href="/">
-          <NavLink to="/">home</NavLink>
+        <a>
+          <NavLink to="/">Home</NavLink>
         </a>
       </div>
       <div className="w-9/12 flex justify-end items-center">
