@@ -16,7 +16,8 @@
     "react-router": "^6.0.0",
     "remark": "^13.0.0",
     "remark-html": "^13.0.2",
-    "sass": "^1.51.0"
+    "sass": "^1.51.0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.1",
