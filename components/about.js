@@ -24,7 +24,8 @@ export default function About() {
         {" "}
         <p>
           {" "}
-          Welcome to my website, very much a work in progress. Built using
+          Welcome to my website,  <p>This Picture was taken while out running in Linslade, Bedfordshire, England, the United Kingdom. Famous for the <a href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures">great train robbery</a>,
+           the very spot I am standing on is in not far from bridge where the robbery took place. The area is a beautiful place and I absolutely love running around the the meadows and woods.</p> As for this website, it's very much a work in progress. Built using
           NextJS, a React framework and styled using TailwindCSS. I have a few
           plans to turn it something useful. Mostly though I'm planning to talk
           about running, health, fitness, robotics, technology and electronics.
