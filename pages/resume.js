@@ -127,12 +127,11 @@ export default function Resume() {
         </section>
 
         <section className="ml-5  my-6">
+          <h2 className={styles.labels}>Skillset </h2>
           <div className="grid grid-cols-2 gap-12">
             {" "}
-            <h2 className={styles.labels}>Skillset </h2>
-          </div>{" "}
-          <div>
             <h3 className={styles.labels}>General Skills</h3>
+            <h3 className={styles.labels}>Software Skills</h3>
           </div>
         </section>
       </>

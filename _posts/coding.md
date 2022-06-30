@@ -60,19 +60,23 @@ A web page is like a word document, when you type, the words flow on to the docu
 Essentially a web page is similar but the way in which the words, the content is displayed is a bit different. Everything that appears on your web browser is *rendered* in a markup language called html - hypertext markup language. The text is *wrapped* in tags like `<h1>` for example,
 
 so  this text
-
  `<h1>A Header</h1>` 
- 
  will be rendered like this 
 ## A Header  
  on a web page.
- It so much fun arranging the content to appear as you want it to on the web browser. It might look a bit tricky at first but once you learn a few of the basic rules then you're up and running.
+ It so much fun arranging the content using css to appear as you want it to on the web browser. It might look a bit tricky at first but once you learn a few of the basic rules then you're up and running.
  
 Once you've gone through the two resources I have listed then you should be ready to start writing your own code.
 
 ## Coming soon...
 
 ## Setting up your own local development environment 
+This does depend on your Operating System which by know you probably know a lot more about anyway, curtesy of the tutorials you have already been thorough. While we are on that note, it ods worth pointing out that there is no de fact standard on what is the better development environment. If you're a happy Windows user, Mac user or Linux user you're going to be fine. I have in my time used all three. 
+If you are using Windows then you can start here:
 
 ## Resources
+
+- https://practice-code.github.io
+This is a phenomenal resource!
+- 
 
