@@ -17,7 +17,7 @@ Well that's probably a very good question and one that you should ask yourself b
 It's definitely not straightforward to learn and it might take a lot of time. Let's not kid ourselves into thinking that you can just open your laptop and start writing the next FaceBook or Twitter.
 It's worth pointing out though that there are rewards and whilst you might find it demanding at first, you can write some pretty nifty stuff even after a short while.
 
-You would be amazed at what you can create.
+You would be very impressed with what you can create.
 
 ### What is there to gain?
 
