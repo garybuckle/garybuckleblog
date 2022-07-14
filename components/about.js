@@ -31,14 +31,14 @@ export default function About() {
             <a href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures">
               great train robbery
             </a>
-            , the very spot I am standing on is actually not thst far from the
+            , the very spot I am standing on is actually not that far from the
             bridge where the robbery took place. The area itself is beautiful
             and I absolutely love running around the the meadows and woods.
           </p>{" "}
           As for this website, it's very much a work in progress. Built using
           NextJS, a React framework and styled using TailwindCSS. I have a few
-          plans to turn it something useful. Mostly though I'm planning to talk
-          about running, health, fitness, robotics, technology and electronics.
+          plans to turn it something useful. Mostly I'm planning to talk about
+          running, health, fitness, robotics, technology and electronics.
           <p>If this sounds interesting then...</p>
           <p>Stick around and lets see what develops</p>
         </p>
