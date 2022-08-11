@@ -26,7 +26,7 @@ export default function About() {
           {" "}
           Welcome to my website,{" "}
           <p>
-            This Picture was taken while out running in Linslade, Bedfordshire,
+            This picture was taken while out running in Linslade, Bedfordshire,
             England, the United Kingdom. Famous for the{" "}
             <a href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures">
               great train robbery
@@ -35,13 +35,15 @@ export default function About() {
             bridge where the robbery took place. The area itself is beautiful
             and I absolutely love running around the the meadows and woods.
           </p>{" "}
-          As for this website, it's very much a work in progress. Built using
-          NextJS, a React framework and styled using TailwindCSS. I have a few
-          plans to turn it something useful. Mostly I'm planning to talk about
+          <p> I will be leaving it all behind soon. We are moving to Germany, more on that in the future</p>
+          As for this website, as yu csn see, it's very much a work in progress. Built using
+          NextJS, a React framework and styled using TailwindCSS. I have
+          plans to turn it something useful. Mostly I would like to talk more about
           running, health, fitness, robotics, technology and electronics.
           <p>If this sounds interesting then...</p>
-          <p>Stick around and lets see what develops</p>
+          <p>Stick around and lets see what develops, when the time comes I will start filling up the pages</p>
         </p>
+        <p> See you soon!</p>
       </section>
       <Footer />
     </>
