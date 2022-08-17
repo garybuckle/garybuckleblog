@@ -33,7 +33,7 @@ export default function About() {
             </a>
             , the very spot I am standing on is actually not that far from the
             bridge where the robbery took place. The area itself is beautiful
-            and I absolutely love running around the the meadows and woods.
+            and I absolutely love running around the meadows and woods.
           </p>{" "}
           <p> I will be leaving it all behind soon. We are moving to Germany, more on that in the future</p>
           As for this website, as yu csn see, it's very much a work in progress. Built using
