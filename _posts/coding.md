@@ -54,10 +54,10 @@ They cater for everyone from beginner's to professionals.
 
 ### What is Web Development?
 
-So here is my take on how to look at it:
-A web page is like a word document, when you type, the words flow on to the document from left to right. As soon as they reach the end they pop out on to the next line. If you want to indent a word then you have to insert an indent. If you want to style a word then you have to select it and change it's size, colour, its type such as italic or bold. You do this by using the toolbar where all of the commands are located and nicely presented.
+So here is my take on how to look at web development:
+A web page is very much like a word document, when you type, the words flow on to the document from left to right. As soon as they reach the end they pop out on to the next line. If you want to indent a word then you have to insert an indent. If you want to style a word then you have to select it and change it's size, colour, its type such as italic or bold. You do this by using the toolbar where all of the commands are located and nicely presented.
 
-Essentially a web page is similar but the way in which the words, the content is displayed is a bit different. Everything that appears on your web browser is _rendered_ in a markup language called html - hypertext markup language. The text is _wrapped_ in tags like `<h1>` for example,
+Essentially a web page is similar but the way in which the words, the content is displayed, is a bit different. Everything that appears on your web browser is _rendered_ in a markup language called html - hypertext markup language. The text is _wrapped_ in tags like `<h1>` for example,
 
 so this text
 `<h1>A Header</h1>`
@@ -74,10 +74,17 @@ Once you've gone through the two resources I have listed then you should be read
 
 ## Setting up your own local development environment
 
-This does depend on your Operating System which by know you probably know a lot more about anyway, curtesy of the tutorials you have already been thorough. While we are on that note, it ods worth pointing out that there is no de fact standard on what is the better development environment. If you're a happy Windows user, Mac user or Linux user you're going to be fine. I have in my time used all three.
-If you are using Windows then you can start here:
+This does depend on your Operating System which by now you probably know a lot more about anyway, curtesy of the tutorials you have already been thorough. While we are on that note, it is worth pointing out that there is no 'de fact' standard on what is the better development environment. If you're a happy Windows user, Mac user or Linux user you're going to be fine. I have in my time used all three.
+I have set up a local dev environment on A Mac and Linux and once, a long time ago on Windows. I doubt that experience is still relevant though.
+Lets be lazy and lets start with a Mac.
+Lets be even more lazier and install our Web Server using [MAMP](https://www.mamp.info/en/downloads/)
+What does this do?
+Essentially it serves documents written in HTML to web browsers. It does it on your local machine, so instead of the documents travelling through the internet they just get rendered on your local web browser.
+What is the point?
+You can run all of of the technology that a real webserver uses,  locally without any compromise.
 
-## Resources
+
+## Additional Resources
 
 - [Computer Science Data Structure, Algorithm, Angular, React, etc.](https://practice-code.github.io)
   This is a phenomenal resource!
