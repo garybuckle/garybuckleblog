@@ -24,28 +24,22 @@ export default function About() {
         {" "}
         <p>
           {" "}
-          Welcome to my website,{" "}
-          <p>
-            This picture was taken while out running in Linslade, Bedfordshire,
-            England, the United Kingdom. Famous for the{" "}
-            <a href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures">
-              great train robbery
-            </a>
-            , the very spot I am standing on is actually not that far from the
-            bridge where the robbery took place. The area itself is beautiful
-            and I absolutely love running around the meadows and woods.
-          </p>{" "}
-          <p>
-            {" "}
-            I will be leaving it all behind soon. We are moving to Germany, more
-            on that in the future
-          </p>
-          As for this website, it's very much a work in progress. Built using
-          NextJS, a React framework and styled using TailwindCSS. I have plans
-          to turn it something useful. Mostly I would like to talk more about
-          running, health, fitness, robotics, technology and electronics. If
-          this sounds interesting then... Stick around and lets see what
-          develops, when the time comes I will start filling up the pages
+          Welcome to my website, This picture was taken while out running in
+          Linslade, Bedfordshire, England, the United Kingdom. Famous for the{" "}
+          <a href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures">
+            great train robbery
+          </a>
+          , the very spot I am standing on is actually not that far from the
+          bridge where the robbery took place. The area itself is beautiful and
+          I absolutely love running around the meadows and woods. I will be
+          leaving it all behind soon. We are moving to Germany, more on that in
+          the future As for this website, it's very much a work in progress.
+          Built using NextJS, a React framework and styled using TailwindCSS. I
+          have plans to turn it something useful. Mostly I would like to talk
+          more about running, health, fitness, robotics, technology and
+          electronics. If this sounds interesting then... Stick around and lets
+          see what develops, when the time comes I will start filling up the
+          pages
         </p>
       </section>
       <Footer />
