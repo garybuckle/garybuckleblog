@@ -75,17 +75,43 @@ Once you've gone through the two resources I have listed then you should be read
 ## Setting up your own local development environment
 
 This does depend on your Operating System which by now you probably know a lot more about anyway, curtesy of the tutorials you have already been thorough. While we are on that note, it is worth pointing out that there is no 'de fact' standard on what is the better development environment. If you're a happy Windows user, Mac user or Linux user you're going to be fine. I have in my time used all three.
-I have set up a local dev environment on A Mac and Linux and once, a long time ago on Windows. I doubt that experience is still relevant though.
-Lets be lazy and lets start with a Mac.
-Lets be even more lazier and install our Web Server using [MAMP](https://www.mamp.info/en/downloads/)
-What does this do?
-Essentially it serves documents written in HTML to web browsers. It does it on your local machine, so instead of the documents travelling through the internet they just get rendered on your local web browser.
-What is the point?
-You can run all of of the technology that a real webserver uses,  locally without any compromise.
+I have set up a local dev environment on A Mac and Linux and once, a long time ago on Windows. I doubt that experience is still relevant though. Here is a random [resource](https://betterprogramming.pub/how-to-install-apache-on-macos-10-15-catalina-using-homebrew-78373ad962eb) I saw on that process
+An easier process is to install our Web Server using [MAMP](https://www.mamp.info/en/downloads/)
 
+## What does this do?
+
+Essentially it serves documents written in HTML to web browsers. It does it on your local machine, so instead of the documents travelling through the internet they just get rendered on your local web browser.
+
+## What is the point?
+
+You can run all of of the technology that a real WebServer uses, locally without any compromise. Alongside that you learn a bit more about the process by which the data is sent and rendered. If you want to just write some code and have your local browser render it locally without having to install a WebServer then you can set up a node server in your text editor. Woah!!! slow down... we aren't that far yet!
+
+## Install a text editor.
+
+There are many text editors but what do they do? Well they allow you to write your code witjput having to worry _too much_.
+
+Text editors
+
+[VSCode](https://code.visualstudio.com/) Any platform
+
+[Brackets](https://brackets.io/) Any platform
+
+[Nova](https://nova.app/) Mac Only but truly beautiful
+
+[Sublime Text](https://www.sublimetext.com/) Any platform
 
 ## Additional Resources
+
+Apart from the stuff already mentioned.
+
+[Tania Rascia](https://www.taniarascia.com/) Such a great resource, I jeve learned so much from her articles.
+
+[Flavio Copes](https://flaviocopes.com/) Another dynamic presence, simply pumps out content and articles, fantastic teacher!
 
 - [Computer Science Data Structure, Algorithm, Angular, React, etc.](https://practice-code.github.io)
   This is a phenomenal resource!
 -
+
+Above all I would encourage anyone trying to start out as I did by making mistakes and trying to create simple things.
+
+Good luck and happy coding!

@@ -29,17 +29,18 @@ export default function About() {
           <a href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures">
             great train robbery
           </a>
-          , the very spot I am standing on is actually not that far from the
+          The very spot I am standing on is actually not that far from the
           bridge where the robbery took place. The area itself is beautiful and
-          I absolutely love running around the meadows and woods. I will be
-          leaving it all behind soon. We are moving to Germany, more on that in
-          the future As for this website, it's very much a work in progress.
-          Built using NextJS, a React framework and styled using TailwindCSS. I
-          have plans to turn it something useful. Mostly I would like to talk
-          more about running, health, fitness, robotics, technology and
-          electronics. If this sounds interesting then... Stick around and lets
-          see what develops, when the time comes I will start filling up the
-          pages
+          I used to love running around the meadows and woods. I left it all
+          behind. We moved to Germany, as yet we are still in transit so to
+          speak, we are staying with a good friend in a place called Weilerwist.
+          As for this website, it's very much a work in progress. Built using
+          NextJS, a React framework and styled using TailwindCSS. I have plans
+          to turn it something useful. I just need a bit more time! Mostly I
+          would like to talk a lot more about running, squash, fitness,
+          robotics, technology and electronics. If this sounds interesting
+          then... Stick around and see what develops, when the time comes I will
+          start filling up the pages.
         </p>
       </section>
       <Footer />

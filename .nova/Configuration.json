@@ -1,4 +1,12 @@
 {
+  "co.gwil.deno.config.formatOnSave" : "false",
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "markdown",
+    "javascript"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/garybuckle\/Coding\/garybuckleblog\/_posts\/running in villewald.md"
+  ],
   "workspace.preview_server_allow_external" : true,
   "workspace.preview_server_port" : 3000
 }
