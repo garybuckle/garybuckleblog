@@ -33,11 +33,11 @@ export default function About() {
           bridge where the robbery took place. The area itself is beautiful and
           I used to love running around the meadows and woods. I left it all
           behind. We moved to Germany, as yet we are still in transit so to
-          speak, we are staying with a good friend in a place called Weilerwist.
-          As for this website, it's very much a work in progress. Built using
-          NextJS, a React framework and styled using TailwindCSS. I have plans
-          to turn it something useful. I just need a bit more time! Mostly I
-          would like to talk a lot more about running, squash, fitness,
+          speak, we are staying with a good friend in a place called
+          Weilerswist. As for this website, it's very much a work in progress.
+          Built using NextJS, a React framework and styled using TailwindCSS. I
+          have plans to turn it something useful. I just need a bit more time!
+          Mostly I would like to talk a lot more about running, squash, fitness,
           robotics, technology and electronics. If this sounds interesting
           then... Stick around and see what develops, when the time comes I will
           start filling up the pages.
