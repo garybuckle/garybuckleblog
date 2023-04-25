@@ -25,22 +25,37 @@ export default function About() {
         <p>
           {" "}
           Welcome to my website, This picture was taken while out running in
-          Linslade, Bedfordshire, England, the United Kingdom. Famous for the{" "}
-          <a href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures">
-            great train robbery
+          Linslade, Bedfordshire, England, the United Kingdom.{" "}
+          <p>
+            Famous for the
+            {"  "}
+            <a
+              href="https://www.theguardian.com/uk-news/gallery/2014/sep/28/the-great-train-robbery-in-pictures"
+              target="_blank"
+            >
+              great train robbery
+            </a>
+            {"  "}
+          </p>
+          <p>
+            The very spot I am standing on is actually not that far from the
+            bridge where the robbery took place.{" "}
+          </p>
+          The area itself is beautiful and I used to love running around the
+          meadows and woods. I left it all behind. We moved to Germany, finally
+          ending up in
+          <a href="https://de.wikipedia.org/wiki/Kommern" target="_blank">
+            {" "}
+            Kommern
           </a>
-          The very spot I am standing on is actually not that far from the
-          bridge where the robbery took place. The area itself is beautiful and
-          I used to love running around the meadows and woods. I left it all
-          behind. We moved to Germany, as yet we are still in transit so to
-          speak, we are staying with a good friend in a place called
-          Weilerswist. As for this website, it's very much a work in progress.
-          Built using NextJS, a React framework and styled using TailwindCSS. I
-          have plans to turn it something useful. I just need a bit more time!
-          Mostly I would like to talk a lot more about running, squash, fitness,
-          robotics, technology and electronics. If this sounds interesting
-          then... Stick around and see what develops, when the time comes I will
-          start filling up the pages.
+          , we are the Kommern people! As for this website, it's very much a
+          work in progress. Built using NextJS, a React framework and styled
+          using TailwindCSS, enough of the tech stuff! I have plans to turn it
+          something useful. I just need a bit more time! Mostly I would like to
+          talk a lot more about running, squash, fitness, robotics, technology,
+          coding and electronics. If this sounds interesting then... Stick
+          around and see what develops, when the time comes I will start filling
+          up the pages.
         </p>
       </section>
       <Footer />

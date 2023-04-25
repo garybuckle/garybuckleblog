@@ -18,19 +18,20 @@ It's definitely not straightforward to learn and it might take a lot of time. Le
 It's worth pointing out though that there are rewards and whilst you might find it demanding at first, you can write some pretty nifty stuff even after a short while.
 
 You would be very impressed with what you can create.
+Remember yourself as a kid, building your bits of lego or completing a puzzle , a jigsaw. That feeling of completion, of control, the satisfaction of you... doing something creative. That's the buzz here when you're literally messing around with software.
 
-### What is there to gain?
+### What is meant by Coding?
 
-1. You can create your own web pages and make them look and behave exactly how you want.
-2. You can even host your own local web server and serve out your pages from there.
-3. You will understand more about what is happening when you are browsing other people's websites
-4. When you learn to code you learn a lot about structure and process
-5. You might get a career out of it
-6. It's fun!...it actually is!
+1. I am going to concentrate here on Web Development. You can create your own web pages and make them look and behave exactly how you want using something HTML and CSS. It's a nice place to start.
+2. You can even host your own local web server and serve out your pages from there, just likre they do on the real internet.
+3. You will understand more about what is happening when you are browsing other people's websites because you will haver built your own.
+4. When you learn to code you learn a lot about structure and process, about what it means to set up a layout or design a page. Orchestrate the way the page behaves and interacts with the user.
+5. You might get a career out of it.
+6. It's fun!...it really is!
 
 ## Where do I start?
 
-> At the beginning, always start at the beginning.
+> At the beginning, always start at the beginning. You might be tempted to kick off with Android or iOS programming and if you do that's fine. Personally I think it's good to start by walking before you run, if not you will at some point realise that you missed the essentials of walking. You will have to recap it again at some stage.
 
 There are many blogs, articles and posts that will help you in your journey to become a programmer. I am just highlighting my experiences, I will list them out later in the article but if I missed one or two out and you discover a few interesting ones then [let me know](mailto:"buckle,g@mac.com")
 
@@ -52,6 +53,8 @@ If you're stuck then take a look [here](https://developer.mozilla.org/en-US/) MD
 
 They cater for everyone from beginner's to professionals.
 
+When you're starting out don't be afraid to accept that there will be bits you don't understand. Ask yourself the questions that will challenge your understanding of the topic but don't be put off if you don't know the answers.
+
 ### What is Web Development?
 
 So here is my take on how to look at web development:
@@ -66,11 +69,11 @@ will be rendered like this
 ## A Header
 
 on a web page.
-It so much fun arranging the content using css to appear as you want it to on the web browser. It might look a bit tricky at first but once you learn a few of the basic rules then you're up and running.
+
+You can change the appearance of the content using something called CSS (Cascading Style Sheets). It allows us to apply rules to the content, you tell the web browser, "This word is in red and should be centred on to the page"
+It so much fun arranging the content using CSS to appear as you want it to on the web browser. It might look a bit tricky at first but once you learn a few of the basic rules then you're up and running.
 
 Once you've gone through the two resources I have listed then you should be ready to start writing your own code.
-
-## Coming soon...
 
 ## Setting up your own local development environment
 
@@ -88,11 +91,11 @@ You can run all of of the technology that a real WebServer uses, locally without
 
 ## Install a text editor.
 
-There are many text editors but what do they do? Well they allow you to write your code witjput having to worry _too much_.
+There are many text editors but what do they do? Well they allow you to write your code without having to worry _too much_.
 
 Text editors
 
-[VSCode](https://code.visualstudio.com/) Any platform
+[VSCode](https://code.visualstudio.com/) Any platform, used everywhere.
 
 [Brackets](https://brackets.io/) Any platform
 
@@ -104,13 +107,13 @@ Text editors
 
 Apart from the stuff already mentioned.
 
-[Tania Rascia](https://www.taniarascia.com/) Such a great resource, I jeve learned so much from her articles.
+[Tania Rascia](https://www.taniarascia.com/) - Such a great resource, I have learned so much from her articles.
 
-[Flavio Copes](https://flaviocopes.com/) Another dynamic presence, simply pumps out content and articles, fantastic teacher!
+[Flavio Copes](https://flaviocopes.com/) - Another dynamic presence, simply pumps out content and articles, fantastic teacher!
 
-- [Computer Science Data Structure, Algorithm, Angular, React, etc.](https://practice-code.github.io)
-  This is a phenomenal resource!
--
+- [Computer Science Data Structure, Algorithm, Angular, React, etc.](https://practice-code.github.io) - This is a phenomenal resource!
+
+I would encourage you to think about writing your own stuff as soon as you can, no matter how basic it looks.
 
 Above all I would encourage anyone trying to start out as I did by making mistakes and trying to create simple things.
 

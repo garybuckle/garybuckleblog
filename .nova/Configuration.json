@@ -6,6 +6,9 @@
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "\/Users\/garybuckle\/Coding\/garybuckleblog\/_posts\/running in villewald.md",
+    "\/Users\/garybuckle\/Coding\/garybuckleblog\/_posts\/katezenstein.md",
+    "\/Users\/garybuckle\/Coding\/garybuckleblog\/_posts\/coding.md",
+    "\/Users\/garybuckle\/Coding\/garybuckleblog\/components\/footer.js",
     "\/Users\/garybuckle\/Coding\/garybuckleblog\/components\/about.js"
   ],
   "workspace.preview_server_allow_external" : true,
