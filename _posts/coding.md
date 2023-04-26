@@ -22,18 +22,21 @@ Remember yourself as a kid, building your bits of lego or completing a puzzle , 
 
 ### What is meant by Coding?
 
-1. I am going to concentrate here on Web Development. You can create your own web pages and make them look and behave exactly how you want using something HTML and CSS. It's a nice place to start.
-2. You can even host your own local web server and serve out your pages from there, just likre they do on the real internet.
-3. You will understand more about what is happening when you are browsing other people's websites because you will haver built your own.
-4. When you learn to code you learn a lot about structure and process, about what it means to set up a layout or design a page. Orchestrate the way the page behaves and interacts with the user.
-5. You might get a career out of it.
-6. It's fun!...it really is!
+- Coding is writing a series of instructions that your computer can understand. The computer will then do something using those instructions. That's a very obtuse description, there are many different ways you can code on a computer however...
+- I am going to concentrate here on Web Development. You can create your own web pages and make them look and behave exactly how you want using something HTML and CSS. It's a nice place to start.
+- You can even host your own local web server and serve out your pages from there, just likre they do on the real internet.
+- You will understand more about what is happening when you are browsing other people's websites because you will haver built your own.
+- When you learn to code you learn a lot about structure and process, about what it means to set up a layout or design a page. Orchestrate the way the page behaves and interacts with the user.
+- You might get a career out of it.
+- It's fun!...it really is!
 
 ## Where do I start?
 
-> At the beginning, always start at the beginning. You might be tempted to kick off with Android or iOS programming and if you do that's fine. Personally I think it's good to start by walking before you run, if not you will at some point realise that you missed the essentials of walking. You will have to recap it again at some stage.
+> In the beginner's mind there are many possibilities, but in the expert's mind there are few.
 
-There are many blogs, articles and posts that will help you in your journey to become a programmer. I am just highlighting my experiences, I will list them out later in the article but if I missed one or two out and you discover a few interesting ones then [let me know](mailto:"buckle,g@mac.com")
+- At the beginning, always start at the beginning. You might be tempted to kick off with Android or iOS programming and if you do that's fine. Personally I think it's good to start by walking before you run, if not, you will at some point realise that you missed the essentials of walking. You will have to recap it again at some stage.
+
+- There are many blogs, articles and posts that will help you in your journey to become a programmer. I am just highlighting my experiences, I will list them out later in the article but if I missed one or two out and you discover a few interesting ones then [let me know](mailto:"buckle,g@mac.com")
 
 No Drama!
 
@@ -79,7 +82,7 @@ Once you've gone through the two resources I have listed then you should be read
 
 This does depend on your Operating System which by now you probably know a lot more about anyway, curtesy of the tutorials you have already been thorough. While we are on that note, it is worth pointing out that there is no 'de fact' standard on what is the better development environment. If you're a happy Windows user, Mac user or Linux user you're going to be fine. I have in my time used all three.
 I have set up a local dev environment on A Mac and Linux and once, a long time ago on Windows. I doubt that experience is still relevant though. Here is a random [resource](https://betterprogramming.pub/how-to-install-apache-on-macos-10-15-catalina-using-homebrew-78373ad962eb) I saw on that process
-An easier process is to install our Web Server using [MAMP](https://www.mamp.info/en/downloads/)
+An easier process is to install a Web Server using [MAMP](https://www.mamp.info/en/downloads/)
 
 ## What does this do?
 
