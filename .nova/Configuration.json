@@ -1,15 +1,12 @@
 {
   "co.gwil.deno.config.formatOnSave" : "false",
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "markdown",
     "javascript"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "\/Users\/garybuckle\/Coding\/garybuckleblog\/components\/footer.js",
-    "\/Users\/garybuckle\/Coding\/garybuckleblog\/components\/about.js",
-    "\/Users\/garybuckle\/Coding\/garybuckleblog\/pages\/work.js",
-    "\/Users\/garybuckle\/Coding\/garybuckleblog\/components\/navbar.js",
-    "\/Users\/garybuckle\/Coding\/garybuckleblog\/components\/header.js",
-    "\/Users\/garybuckle\/Coding\/garybuckleblog\/pages\/htmldemo.js"
+    "\/Users\/garybuckle\/Coding\/garybuckleblog\/_posts\/running in villewald.md",
+    "\/Users\/garybuckle\/Coding\/garybuckleblog\/components\/about.js"
   ],
   "workspace.preview_server_allow_external" : true,
   "workspace.preview_server_port" : 3000
