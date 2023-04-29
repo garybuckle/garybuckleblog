@@ -19,9 +19,9 @@
     "sass": "^1.51.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.2.1",
-    "postcss": "^8.2.4",
-    "tailwindcss": "^2.0.2"
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1"
   },
   "name": "garybuckleblog",
   "description": "garybuckle's website",

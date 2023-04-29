@@ -12,8 +12,8 @@ export default function Work() {
   return (
     <Layout>
       <>
-        <section className="grid grid-cols-4 gap-4 ">
-          <div className=" md:text-2xl mt-5 text-gray-500 ml-5">
+        <section className="grid grid-cols-4 gap-4  ">
+          <div className=" md:text-2xl mt-5 text-gray-400 ml-5">
             <Link href="/htmldemo">
               <a className="hover:underline">WebSites with HTML and CSS</a>
             </Link>
@@ -26,7 +26,9 @@ export default function Work() {
           </div>
 
           <div className="md:text-2xl mt-5 text-gray-500 ml-5">
-            Interative WebSites with JavaScript
+            <a className="hover:underline">
+              Interative WebSites with JavaScript
+            </a>
             <div className="text-base text-gray-800 mt-5 ">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
               consectetur, laboriosam iure explicabo vitae deserunt saepe quae
