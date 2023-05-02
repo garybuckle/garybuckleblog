@@ -1,0 +1,10 @@
+{
+  "clips" : [
+    {
+      "content" : "---\ntitle: \"\"\nexcerpt: \"\"\ncoverImage: \"\/assets\/blog\/dynamic-routing\/image.png\"\ndate: \"2023-01-09\"\nauthor:\n  name: Gary Buckle\n  picture: \"\/assets\/blog\/authors\/gb.png\"\nogImage:\n  url: \"\/assets\/blog\/dynamic-routing\/image.png\"\n---",
+      "name" : "Blog Post",
+      "scope" : "editor",
+      "syntax" : "markdown"
+    }
+  ]
+}

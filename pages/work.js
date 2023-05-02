@@ -11,49 +11,14 @@ import macMedia from "../public/assets/media/mac.png";
 export default function Work() {
   return (
     <Layout>
+      {" "}
       <>
-        <section className="grid grid-cols-4 gap-4  ">
-          <div className=" md:text-2xl mt-5 text-gray-400 ml-5">
-            <Link href="/htmldemo">
-              <a className="hover:underline">WebSites with HTML and CSS</a>
-            </Link>
-            <div className="text-base text-gray-800 mt-5 ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-              consectetur, laboriosam iure explicabo vitae deserunt saepe quae
-              autem, consequuntur, alias animi distinctio. Est odit aut
-              repudiandae ut quibusdam laudantium mollitia?
-            </div>
-          </div>
-
-          <div className="md:text-2xl mt-5 text-gray-500 ml-5">
-            <a className="hover:underline">
-              Interative WebSites with JavaScript
-            </a>
-            <div className="text-base text-gray-800 mt-5 ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-              consectetur, laboriosam iure explicabo vitae deserunt saepe quae
-              autem, consequuntur, alias animi distinctio. Est odit aut
-              repudiandae ut quibusdam laudantium mollitia?
-            </div>
-          </div>
-          <div className="md:text-2xl mt-5 text-gray-500 ml-5">
-            Bootstrap and TailWindCSS
-            <div className="text-base text-gray-800 mt-5 ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-              consectetur, laboriosam iure explicabo vitae deserunt saepe quae
-              autem, consequuntur, alias animi distinctio. Est odit aut
-              repudiandae ut quibusdam laudantium mollitia?
-            </div>
-          </div>
-          <div className="md:text-2xl mt-5 text-gray-500 ml-5">
-            React and NextJS
-            <div className="text-base text-gray-800 mt-5 ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-              consectetur, laboriosam iure explicabo vitae deserunt saepe quae
-              autem, consequuntur, alias animi distinctio. Est odit aut
-              repudiandae ut quibusdam laudantium mollitia?
-            </div>
-          </div>
+        <section className=" justify-center flex-col md:flex-row flex items-center  ml-16 mr-16 mt-16 mb-16 md:mb-12">
+          {" "}
+          <p>
+            All play and no work...This bit is still under construction so click
+            or tap home and go back to the main page.
+          </p>
         </section>
       </>
     </Layout>
