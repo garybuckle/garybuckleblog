@@ -1,13 +1,13 @@
 ---
 title: "Running past the Katzensteine"
 excerpt: "Running past the Katzensteine"
-coverImage: "/assets/blog/dynamic-routing/katzenstein.jpg"
+coverImage: "/assets/blog/dynamic-routing/katzenstein.png"
 date: "2023-04-24T05:35:07.322Z"
 author:
   name: Gary Buckle
   picture: "/assets/blog/authors/gb.png"
 ogImage:
-  url: "/assets/blog/dynamic-routing/katzenstein.jpg"
+  url: "/assets/blog/dynamic-routing/katzenstein.png"
 ---
 
 ## Running past the Katzensteine
